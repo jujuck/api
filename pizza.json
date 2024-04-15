@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita",
+    "img": "margherita.jpg",
+    "price": 8.99,
+    "description": "Classic pizza topped with tomato sauce, mozzarella, and basil leaves.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, basil",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "img": "pepperoni.jpg",
+    "price": 10.99,
+    "description": "A timeless favorite featuring spicy pepperoni slices and gooey cheese.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, pepperoni",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 3,
+    "name": "Quattro Stagioni",
+    "img": "quattro_stagioni.jpg",
+    "price": 12.99,
+    "description": "Four seasons pizza with sections of artichokes, ham, mushrooms, and olives.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, artichokes, ham, mushrooms, olives",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 4,
+    "name": "Capricciosa",
+    "img": "capricciosa.jpg",
+    "price": 11.99,
+    "description": "A delightful combination of ham, mushrooms, artichokes, and olives.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, ham, mushrooms, artichokes, olives",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 5,
+    "name": "Quattro Formaggi",
+    "img": "quattro_formaggi.jpg",
+    "price": 13.99,
+    "description": "Four cheese pizza topped with a blend of mozzarella, gorgonzola, parmesan, and provolone.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, gorgonzola cheese, parmesan cheese, provolone cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 6,
+    "name": "Hawaiian",
+    "img": "hawaiian.jpg",
+    "price": 10.99,
+    "description": "Tropical pizza with ham, pineapple, and mozzarella cheese.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, ham, pineapple",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 7,
+    "name": "Vegetarian",
+    "img": "vegetarian.jpg",
+    "price": 9.99,
+    "description": "Fresh and flavorful pizza loaded with assorted vegetables like bell peppers, onions, mushrooms, and olives.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, bell peppers, onions, mushrooms, olives",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 8,
+    "name": "Meat Lovers",
+    "img": "meat_lovers.jpg",
+    "price": 12.99,
+    "description": "For those who love meat! Topped with pepperoni, sausage, bacon, and ham.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, pepperoni, sausage, bacon, ham",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 9,
+    "name": "BBQ Chicken",
+    "img": "bbq_chicken.jpg",
+    "price": 11.99,
+    "description": "Savory pizza featuring barbecue sauce, grilled chicken, onions, and cilantro.",
+    "list_of_ingredients": "Barbecue sauce, mozzarella cheese, grilled chicken, onions, cilantro",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 10,
+    "name": "Mushroom",
+    "img": "mushroom.jpg",
+    "price": 9.99,
+    "description": "Simple yet delicious pizza topped with fresh mushrooms and mozzarella cheese.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, mushrooms",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 11,
+    "name": "Buffalo Chicken",
+    "img": "buffalo_chicken.jpg",
+    "price": 11.99,
+    "description": "Spicy chicken pizza with buffalo sauce, blue cheese, and red onions.",
+    "list_of_ingredients": "Buffalo sauce, mozzarella cheese, grilled chicken, blue cheese, red onions",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 12,
+    "name": "Supreme",
+    "img": "supreme.jpg",
+    "price": 12.99,
+    "description": "The ultimate pizza loaded with pepperoni, sausage, bell peppers, onions, and olives.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, pepperoni, sausage, bell peppers, onions, olives",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 13,
+    "name": "BBQ Bacon Cheeseburger",
+    "img": "bbq_bacon_cheeseburger.jpg",
+    "price": 13.99,
+    "description": "All the flavors of a cheeseburger on a pizza! Topped with barbecue sauce, ground beef, bacon, onions, and cheddar cheese.",
+    "list_of_ingredients": "Barbecue sauce, mozzarella cheese, ground beef, bacon, onions, cheddar cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 14,
+    "name": "Chicken Alfredo",
+    "img": "chicken_alfredo.jpg",
+    "price": 12.99,
+    "description": "Creamy Alfredo sauce, grilled chicken, and spinach atop a delicious pizza crust.",
+    "list_of_ingredients": "Alfredo sauce, mozzarella cheese, grilled chicken, spinach",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 15,
+    "name": "White Pizza",
+    "img": "white_pizza.jpg",
+    "price": 11.99,
+    "description": "Simple yet elegant pizza with a garlic and olive oil base, topped with ricotta, mozzarella, and spinach.",
+    "list_of_ingredients": "Garlic olive oil base, mozzarella cheese, ricotta cheese, spinach",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 16,
+    "name": "Sicilian",
+    "img": "sicilian.jpg",
+    "price": 14.99,
+    "description": "Thick-crust square pizza with tomato sauce, mozzarella cheese, and a sprinkle of parmesan.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, parmesan cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 17,
+    "name": "Spinach and Feta",
+    "img": "spinach_feta.jpg",
+    "price": 10.99,
+    "description": "Healthy and delicious pizza featuring spinach, feta cheese, and black olives.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, spinach, feta cheese, black olives",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 18,
+    "name": "Garlic Lover's",
+    "img": "garlic_lovers.jpg",
+    "price": 10.99,
+    "description": "For garlic enthusiasts! Topped with roasted garlic, mozzarella cheese, and a sprinkle of parmesan.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, roasted garlic, parmesan cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 19,
+    "name": "Buffalo Cauliflower",
+    "img": "buffalo_cauliflower.jpg",
+    "price": 11.99,
+    "description": "A vegetarian twist on buffalo chicken pizza with spicy buffalo cauliflower, blue cheese, and red onions.",
+    "list_of_ingredients": "Buffalo cauliflower, mozzarella cheese, blue cheese, red onions",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 20,
+    "name": "Pesto",
+    "img": "pesto.jpg",
+    "price": 11.99,
+    "description": "Fresh and flavorful pizza with a basil pesto base, topped with cherry tomatoes, mozzarella, and pine nuts.",
+    "list_of_ingredients": "Basil pesto base, mozzarella cheese, cherry tomatoes, pine nuts",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 21,
+    "name": "Barbecue Pork",
+    "img": "barbecue_pork.jpg",
+    "price": 12.99,
+    "description": "Sweet and savory pizza with barbecue sauce, pulled pork, red onions, and cilantro.",
+    "list_of_ingredients": "Barbecue sauce, mozzarella cheese, pulled pork, red onions, cilantro",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 22,
+    "name": "Artichoke",
+    "img": "artichoke.jpg",
+    "price": 11.99,
+    "description": "Delicious pizza topped with marinated artichoke hearts, black olives, and mozzarella cheese.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, marinated artichoke hearts, black olives",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 23,
+    "name": "Truffle Mushroom",
+    "img": "truffle_mushroom.jpg",
+    "price": 14.99,
+    "description": "Decadent pizza featuring truffle oil, mushrooms, caramelized onions, and fontina cheese.",
+    "list_of_ingredients": "Truffle oil, mozzarella cheese, mushrooms, caramelized onions, fontina cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 24,
+    "name": "Prosciutto and Arugula",
+    "img": "prosciutto_arugula.jpg",
+    "price": 13.99,
+    "description": "Elegant pizza with thin slices of prosciutto, fresh arugula, and shaved parmesan cheese.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, prosciutto, arugula, parmesan cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 25,
+    "name": "Eggplant Parmesan",
+    "img": "eggplant_parmesan.jpg",
+    "price": 12.99,
+    "description": "Italian classic turned into pizza! Featuring breaded eggplant slices, marinara sauce, and mozzarella cheese.",
+    "list_of_ingredients": "Marinara sauce, mozzarella cheese, breaded eggplant slices",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 26,
+    "name": "Margherita Bufala",
+    "img": "margherita_bufala.jpg",
+    "price": 14.99,
+    "description": "Upscale version of the classic Margherita with buffalo mozzarella and fresh basil.",
+    "list_of_ingredients": "Tomato sauce, buffalo mozzarella cheese, basil",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 27,
+    "name": "Chicken Pesto",
+    "img": "chicken_pesto.jpg",
+    "price": 12.99,
+    "description": "Delicious pizza with basil pesto base, grilled chicken, roasted red peppers, and goat cheese.",
+    "list_of_ingredients": "Basil pesto base, mozzarella cheese, grilled chicken, roasted red peppers, goat cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 28,
+    "name": "Margherita D.O.P.",
+    "img": "margherita_dop.jpg",
+    "price": 15.99,
+    "description": "Authentic Neapolitan pizza with San Marzano tomatoes, buffalo mozzarella, and fresh basil.",
+    "list_of_ingredients": "San Marzano tomatoes, buffalo mozzarella cheese, basil",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 29,
+    "name": "Taco Pizza",
+    "img": "taco_pizza.jpg",
+    "price": 13.99,
+    "description": "A fusion of Mexican and Italian cuisine! Topped with seasoned ground beef, cheddar cheese, lettuce, tomatoes, and sour cream.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, seasoned ground beef, cheddar cheese, lettuce, tomatoes, sour cream",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 30,
+    "name": "Chicken Bacon Ranch",
+    "img": "chicken_bacon_ranch.jpg",
+    "price": 12.99,
+    "description": "Ranch lovers' dream! Topped with grilled chicken, crispy bacon, ranch dressing, and red onions.",
+    "list_of_ingredients": "Ranch dressing, mozzarella cheese, grilled chicken, bacon, red onions",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 31,
+    "name": "Meatball",
+    "img": "meatball.jpg",
+    "price": 11.99,
+    "description": "Satisfying pizza topped with homemade meatballs, marinara sauce, and mozzarella cheese.",
+    "list_of_ingredients": "Marinara sauce, mozzarella cheese, homemade meatballs",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 32,
+    "name": "Greek",
+    "img": "greek.jpg",
+    "price": 11.99,
+    "description": "Mediterranean-inspired pizza with kalamata olives, feta cheese, red onions, tomatoes, and oregano.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, kalamata olives, feta cheese, red onions, tomatoes, oregano",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 33,
+    "name": "Pulled Pork",
+    "img": "pulled_pork.jpg",
+    "price": 12.99,
+    "description": "Southern-style pizza with barbecue pulled pork, caramelized onions, and cheddar cheese.",
+    "list_of_ingredients": "Barbecue sauce, mozzarella cheese, pulled pork, caramelized onions, cheddar cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 34,
+    "name": "Margherita Diavola",
+    "img": "margherita_diavola.jpg",
+    "price": 13.99,
+    "description": "Spicy version of the classic Margherita with spicy salami and chili flakes.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, spicy salami, chili flakes, basil",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 35,
+    "name": "Chicken Tikka Masala",
+    "img": "chicken_tikka_masala.jpg",
+    "price": 13.99,
+    "description": "Indian-inspired pizza with tikka masala sauce, grilled chicken, red onions, and cilantro.",
+    "list_of_ingredients": "Tikka masala sauce, mozzarella cheese, grilled chicken, red onions, cilantro",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 36,
+    "name": "Shrimp Scampi",
+    "img": "shrimp_scampi.jpg",
+    "price": 14.99,
+    "description": "Delicious pizza with garlic butter sauce, shrimp, cherry tomatoes, and parsley.",
+    "list_of_ingredients": "Garlic butter sauce, mozzarella cheese, shrimp, cherry tomatoes, parsley",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 37,
+    "name": "Eggplant and Ricotta",
+    "img": "eggplant_ricotta.jpg",
+    "price": 12.99,
+    "description": "Vegetarian delight! Topped with roasted eggplant, ricotta cheese, cherry tomatoes, and basil.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, roasted eggplant, ricotta cheese, cherry tomatoes, basil",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 38,
+    "name": "Pulled Pork Mac and Cheese",
+    "img": "pulled_pork_mac_and_cheese.jpg",
+    "price": 14.99,
+    "description": "Indulgent pizza featuring macaroni and cheese, barbecue pulled pork, and crispy bacon.",
+    "list_of_ingredients": "Macaroni and cheese, mozzarella cheese, pulled pork, bacon",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 39,
+    "name": "Chicken Fajita",
+    "img": "chicken_fajita.jpg",
+    "price": 13.99,
+    "description": "Southwestern-style pizza with grilled chicken, bell peppers, onions, and cheddar cheese.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, grilled chicken, bell peppers, onions, cheddar cheese",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 40,
+    "name": "Margherita Pesto",
+    "img": "margherita_pesto.jpg",
+    "price": 12.99,
+    "description": "Refreshing twist on the classic Margherita with basil pesto, cherry tomatoes, and fresh mozzarella.",
+    "list_of_ingredients": "Basil pesto, mozzarella cheese, cherry tomatoes, basil",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 41,
+    "name": "Buffalo Cauliflower",
+    "img": "buffalo_cauliflower.jpg",
+    "price": 12.99,
+    "description": "Vegetarian delight! Spicy buffalo cauliflower, blue cheese, and red onions atop a crispy crust.",
+    "list_of_ingredients": "Buffalo cauliflower, mozzarella cheese, blue cheese, red onions",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 42,
+    "name": "Bacon Cheeseburger",
+    "img": "bacon_cheeseburger.jpg",
+    "price": 12.99,
+    "description": "All the flavors of a cheeseburger on a pizza! Topped with ground beef, bacon, cheddar cheese, and pickles.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, ground beef, bacon, cheddar cheese, pickles",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 43,
+    "name": "Pesto Chicken",
+    "img": "pesto_chicken.jpg",
+    "price": 12.99,
+    "description": "Fresh and flavorful pizza with basil pesto, grilled chicken, sun-dried tomatoes, and goat cheese.",
+    "list_of_ingredients": "Basil pesto, mozzarella cheese, grilled chicken, sun-dried tomatoes, goat cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 44,
+    "name": "Balsamic Glazed Steak",
+    "img": "balsamic_steak.jpg",
+    "price": 15.99,
+    "description": "Elegant pizza with balsamic glazed steak, caramelized onions, blue cheese, and arugula.",
+    "list_of_ingredients": "Balsamic glazed steak, mozzarella cheese, caramelized onions, blue cheese, arugula",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 45,
+    "name": "Buffalo Chicken Ranch",
+    "img": "buffalo_chicken_ranch.jpg",
+    "price": 13.99,
+    "description": "Perfect blend of spicy buffalo chicken, ranch dressing, red onions, and cilantro.",
+    "list_of_ingredients": "Buffalo sauce, mozzarella cheese, grilled chicken, ranch dressing, red onions, cilantro",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 46,
+    "name": "Pulled Pork Barbecue",
+    "img": "pulled_pork_barbecue.jpg",
+    "price": 13.99,
+    "description": "Southern-style pizza with barbecue pulled pork, red onions, jalapeños, and cilantro.",
+    "list_of_ingredients": "Barbecue sauce, mozzarella cheese, pulled pork, red onions, jalapeños, cilantro",
+    "spicy": true,
+    "size": "medium"
+  },
+  {
+    "id": 47,
+    "name": "Shrimp and Spinach Alfredo",
+    "img": "shrimp_spinach_alfredo.jpg",
+    "price": 14.99,
+    "description": "Decadent pizza with creamy Alfredo sauce, shrimp, spinach, and parmesan cheese.",
+    "list_of_ingredients": "Alfredo sauce, mozzarella cheese, shrimp, spinach, parmesan cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 48,
+    "name": "Chicken Caesar",
+    "img": "chicken_caesar.jpg",
+    "price": 12.99,
+    "description": "Classic Caesar salad flavors on a pizza! Topped with grilled chicken, romaine lettuce, parmesan cheese, and Caesar dressing.",
+    "list_of_ingredients": "Caesar dressing, mozzarella cheese, grilled chicken, romaine lettuce, parmesan cheese",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 49,
+    "name": "Margherita Burrata",
+    "img": "margherita_burrata.jpg",
+    "price": 14.99,
+    "description": "Indulgent pizza with creamy burrata cheese, cherry tomatoes, and fresh basil.",
+    "list_of_ingredients": "Tomato sauce, burrata cheese, cherry tomatoes, basil",
+    "spicy": false,
+    "size": "medium"
+  },
+  {
+    "id": 50,
+    "name": "Mediterranean",
+    "img": "mediterranean.jpg",
+    "price": 13.99,
+    "description": "Fresh and flavorful pizza with Mediterranean flavors like kalamata olives, artichoke hearts, red onions, and feta cheese.",
+    "list_of_ingredients": "Tomato sauce, mozzarella cheese, kalamata olives, artichoke hearts, red onions, feta cheese",
+    "spicy": false,
+    "size": "medium"
+  }
+];
