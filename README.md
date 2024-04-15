@@ -4,7 +4,7 @@
 - Burger => <a href="https://jujuck.github.io/api/burgers.json">https://jujuck.github.io/api/burgers.json</a>
 - Movies => <a href="https://jujuck.github.io/api/movies.json">https://jujuck.github.io/api/movies.json</a>
 - Simpsons => <a href="https://jujuck.github.io/api/simpsons.json">https://jujuck.github.io/api/simpsons.json</a>
-- Vidéo games =>
+- Vidéo games => <a href="https://jujuck.github.io/api/video-games.json">https://jujuck.github.io/api/video-games.json<a>
 - Capital city =>
 - SupertHeroes => <a href="https://jujuck.github.io/api/super-heroes.json">https://jujuck.github.io/api/super-heroes.json</a>
 - Vins => <a href="https://jujuck.github.io/api/wines.json">https://jujuck.github.io/api/wines.json</a>
