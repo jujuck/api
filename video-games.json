@@ -2,7 +2,9 @@
   {
     "id": 1,
     "title": "The Witcher 3: Wild Hunt",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png",
     "genre": "Action RPG",
+
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2015-05-19",
     "developer": "CD Projekt Red",
@@ -14,6 +16,7 @@
   {
     "id": 2,
     "title": "The Legend of Zelda: Breath of the Wild",
+    "image": "https://static.posters.cz/image/750/affiches-et-posters/the-legend-of-zelda-breath-of-the-wild-sunset-i40519.jpg",
     "genre": "Action-Adventure",
     "platforms": ["Nintendo Switch", "Wii U"],
     "release_date": "2017-03-03",
@@ -26,6 +29,7 @@
   {
     "id": 3,
     "title": "Red Dead Redemption 2",
+    "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
     "genre": "Action-Adventure",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2018-10-26",
@@ -38,6 +42,7 @@
   {
     "id": 4,
     "title": "Super Mario Odyssey",
+    "image": "https://eq9q4mywfv4.exactdn.com/wp-content/uploads/2022/07/Super-Mario-Odyssey-Featured-Ecran-Partage.jpg?strip=all&lossy=1&ssl=1",
     "genre": "Platformer",
     "platforms": ["Nintendo Switch"],
     "release_date": "2017-10-27",
@@ -49,19 +54,8 @@
   },
   {
     "id": 5,
-    "title": "Persona 5",
-    "genre": "JRPG",
-    "platforms": ["PlayStation 4", "PlayStation 3"],
-    "release_date": "2017-04-04",
-    "developer": "Atlus",
-    "publisher": "Atlus",
-    "rating": "Mature",
-    "description": "A stylish and engaging Japanese role-playing game set in modern-day Tokyo, blending dungeon-crawling gameplay with social simulation elements.",
-    "price": 39.99
-  },
-  {
-    "id": 6,
     "title": "Horizon Zero Dawn",
+    "image": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
     "genre": "Action RPG",
     "platforms": ["PlayStation 4", "PC"],
     "release_date": "2017-02-28",
@@ -72,8 +66,9 @@
     "price": 49.99
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "God of War",
+    "image": "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7",
     "genre": "Action-Adventure",
     "platforms": ["PlayStation 4"],
     "release_date": "2018-04-20",
@@ -84,20 +79,9 @@
     "price": 59.99
   },
   {
-    "id": 8,
-    "title": "Minecraft",
-    "genre": "Sandbox",
-    "platforms": ["Multiplatform"],
-    "release_date": "2011-11-18",
-    "developer": "Mojang Studios",
-    "publisher": "Mojang Studios",
-    "rating": "Everyone",
-    "description": "An endlessly creative sandbox game that allows players to build and explore blocky worlds, offering limitless possibilities for creativity and adventure.",
-    "price": 29.99
-  },
-  {
-    "id": 9,
+    "id": 7,
     "title": "Grand Theft Auto V",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0911/VIB0SeEj9vT6DTv7P4thJLZi.jpg",
     "genre": "Action-Adventure",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2013-09-17",
@@ -108,8 +92,9 @@
     "price": 29.99
   },
   {
-    "id": 10,
+    "id": 8,
     "title": "Dark Souls III",
+    "image": "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/OFMeAw2KhrdaEZAjW1f3tCIXbogkLpTC.png",
     "genre": "Action RPG",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2016-04-12",
@@ -120,8 +105,9 @@
     "price": 59.99
   },
   {
-    "id": 11,
+    "id": 9,
     "title": "The Elder Scrolls V: Skyrim",
+    "image": "https://assets-prd.ignimgs.com/2021/08/19/elder-scrolls-skyrim-button-2017-1629409446732.jpg",
     "genre": "Action RPG",
     "platforms": ["Multiplatform"],
     "release_date": "2011-11-11",
@@ -132,8 +118,9 @@
     "price": 39.99
   },
   {
-    "id": 12,
-    "title": "Overwatch",
+    "id": 10,
+    "title": "Overwatch 2",
+    "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_Overwatch2_Season6_image1600w.png",
     "genre": "Hero Shooter",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2016-05-24",
@@ -144,20 +131,9 @@
     "price": 39.99
   },
   {
-    "id": 13,
-    "title": "Animal Crossing: New Horizons",
-    "genre": "Life Simulation",
-    "platforms": ["Nintendo Switch"],
-    "release_date": "2020-03-20",
-    "developer": "Nintendo EPD",
-    "publisher": "Nintendo",
-    "rating": "Everyone",
-    "description": "A charming life simulation game that invites players to create their own island paradise, featuring relaxing gameplay and adorable animal villagers.",
-    "price": 59.99
-  },
-  {
-    "id": 14,
+    "id": 11,
     "title": "Cyberpunk 2077",
+    "image": "https://www.cyberpunk.net/build/images/pre-order/buy-b/keyart-ue-fr@2x-cd66fd0d.jpg",
     "genre": "Action RPG",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2020-12-10",
@@ -168,8 +144,9 @@
     "price": 59.99
   },
   {
-    "id": 15,
+    "id": 12,
     "title": "Final Fantasy VII Remake",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/537b5208a8ee42935286a44b3b981da86d976bf54899bf98.jpg",
     "genre": "Action RPG",
     "platforms": ["PlayStation 4"],
     "release_date": "2020-04-10",
@@ -180,8 +157,9 @@
     "price": 59.99
   },
   {
-    "id": 16,
+    "id": 13,
     "title": "Super Smash Bros. Ultimate",
+    "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000012332/ac4d1fc9824876ce756406f0525d50c57ded4b2a666f6dfe40a6ac5c3563fad9",
     "genre": "Fighting",
     "platforms": ["Nintendo Switch"],
     "release_date": "2018-12-07",
@@ -192,8 +170,9 @@
     "price": 59.99
   },
   {
-    "id": 17,
+    "id": 14,
     "title": "Bloodborne",
+    "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2614/NVmnBXze9ElHzU6SmykrJLIV.png",
     "genre": "Action RPG",
     "platforms": ["PlayStation 4"],
     "release_date": "2015-03-24",
@@ -204,8 +183,9 @@
     "price": 19.99
   },
   {
-    "id": 18,
+    "id": 15,
     "title": "Fortnite",
+    "image": "https://cdn1.epicgames.com/offer/fn/Blade_2560x1440_2560x1440-95718a8046a942675a0bc4d27560e2bb",
     "genre": "Battle Royale",
     "platforms": ["Multiplatform"],
     "release_date": "2017-07-25",
@@ -216,8 +196,9 @@
     "price": 0
   },
   {
-    "id": 19,
+    "id": 16,
     "title": "Among Us",
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/amoguslandscape_2560x1440-3fac17e8bb45d81ec9b2c24655758075",
     "genre": "Social Deduction",
     "platforms": ["Multiplatform"],
     "release_date": "2018-06-15",
@@ -228,8 +209,9 @@
     "price": 4.99
   },
   {
-    "id": 20,
+    "id": 17,
     "title": "Pokémon Sword and Shield",
+    "image": "https://www.nintendo.com/sg/switch/sword_shield/img/hero_sp.jpg",
     "genre": "RPG",
     "platforms": ["Nintendo Switch"],
     "release_date": "2019-11-15",
@@ -240,8 +222,9 @@
     "price": 59.99
   },
   {
-    "id": 21,
+    "id": 18,
     "title": "Call of Duty: Warzone",
+    "image": "https://www.laptopspirit.fr/wp-content/uploads/new/2022/02/Call-of-Duty-Warzone-1536x864-1.jpg",
     "genre": "Battle Royale",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2020-03-10",
@@ -252,20 +235,9 @@
     "price": 0
   },
   {
-    "id": 22,
-    "title": "League of Legends",
-    "genre": "MOBA",
-    "platforms": ["PC"],
-    "release_date": "2009-10-27",
-    "developer": "Riot Games",
-    "publisher": "Riot Games",
-    "rating": "Teen",
-    "description": "A multiplayer online battle arena game where players control champions with unique abilities, competing in fast-paced matches to destroy the enemy nexus.",
-    "price": 0
-  },
-  {
-    "id": 23,
+    "id": 19,
     "title": "The Last of Us Part II",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/da083fa5e19458dd750aa8a6ea30ba10bac6f87074693df5.jpg",
     "genre": "Action-Adventure",
     "platforms": ["PlayStation 4"],
     "release_date": "2020-06-19",
@@ -276,20 +248,9 @@
     "price": 59.99
   },
   {
-    "id": 24,
-    "title": "FIFA 21",
-    "genre": "Sports",
-    "platforms": ["Multiplatform"],
-    "release_date": "2020-10-09",
-    "developer": "EA Vancouver / EA Romania",
-    "publisher": "EA Sports",
-    "rating": "Everyone",
-    "description": "The latest installment in the FIFA series, featuring realistic football gameplay, authentic teams and leagues, and various game modes including Ultimate Team.",
-    "price": 59.99
-  },
-  {
-    "id": 25,
+    "id": 20,
     "title": "Doom Eternal",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/b4Q1XWYaTdJLUvRuALuqr0wP.png",
     "genre": "First-Person Shooter",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2020-03-20",
@@ -300,8 +261,9 @@
     "price": 59.99
   },
   {
-    "id": 26,
+    "id": 21,
     "title": "Assassin's Creed Valhalla",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1520/EDtkdijFRwbmGKk1G9lrDoEF.png",
     "genre": "Action RPG",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2020-11-10",
@@ -312,8 +274,9 @@
     "price": 59.99
   },
   {
-    "id": 27,
+    "id": 22,
     "title": "Hades",
+    "image": "https://image.jeuxvideo.com/medias/161367/1613665411-7537-jaquette-avant.png",
     "genre": "Action RPG",
     "platforms": ["Nintendo Switch", "PC"],
     "release_date": "2020-09-17",
@@ -324,20 +287,9 @@
     "price": 24.99
   },
   {
-    "id": 28,
-    "title": "Genshin Impact",
-    "genre": "Action RPG",
-    "platforms": ["PlayStation 4", "PC", "iOS", "Android"],
-    "release_date": "2020-09-28",
-    "developer": "miHoYo",
-    "publisher": "miHoYo",
-    "rating": "Teen",
-    "description": "An open-world action RPG set in the fantasy world of Teyvat, featuring elemental combat, exploration, and a gacha-based character collection system.",
-    "price": 0
-  },
-  {
-    "id": 29,
+    "id": 23,
     "title": "Ghost of Tsushima",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/ZSrFeb6XkqKiq2PZKWg20yfe.jpg",
     "genre": "Action-Adventure",
     "platforms": ["PlayStation 4"],
     "release_date": "2020-07-17",
@@ -348,8 +300,9 @@
     "price": 59.99
   },
   {
-    "id": 30,
+    "id": 24,
     "title": "Valorant",
+    "image": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/6/5/ctsejxmdtw9inp8zqqqd/red-bull-campus-clutch-valorant-agents",
     "genre": "Hero Shooter",
     "platforms": ["PC"],
     "release_date": "2020-06-02",
@@ -360,8 +313,9 @@
     "price": 0
   },
   {
-    "id": 31,
+    "id": 25,
     "title": "The Outer Worlds",
+    "image": "https://image.api.playstation.com/vulcan/img/cfn/11307DWVuREjDv3JnXusQxTjHIJHzhxx2_CUkUzQhzwYe5KUktTVe2_rFsnYYa1hMNlqHrWemXr0Nut__AF2KWPJp84uBZvf.png",
     "genre": "Action RPG",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2019-10-25",
@@ -372,20 +326,9 @@
     "price": 59.99
   },
   {
-    "id": 32,
-    "title": "Among Us",
-    "genre": "Social Deduction",
-    "platforms": ["PC", "iOS", "Android"],
-    "release_date": "2018-06-15",
-    "developer": "InnerSloth",
-    "publisher": "InnerSloth",
-    "rating": "Everyone 10+",
-    "description": "A multiplayer social deduction game where players work together to complete tasks on a spaceship while attempting to identify the impostors among them.",
-    "price": 4.99
-  },
-  {
-    "id": 33,
+    "id": 26,
     "title": "Crash Bandicoot 4: It's About Time",
+    "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/1918/psoOkDbYuMdr1RsJo6TpU6bg.png",
     "genre": "Platformer",
     "platforms": ["PlayStation 4", "Xbox One"],
     "release_date": "2020-10-02",
@@ -396,8 +339,9 @@
     "price": 59.99
   },
   {
-    "id": 34,
+    "id": 27,
     "title": "Marvel's Spider-Man: Miles Morales",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/PRfYtTZQsuj3ALrBXGL8MjAH.jpg",
     "genre": "Action-Adventure",
     "platforms": ["PlayStation 4", "PlayStation 5"],
     "release_date": "2020-11-12",
@@ -408,8 +352,9 @@
     "price": 49.99
   },
   {
-    "id": 35,
+    "id": 28,
     "title": "Destiny 2",
+    "image": "https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/EN_Bungie_Legacy_Collection_2023_S3_2560x1440_2560x1440-c12dafc5484d838c29532a5e8c87fd74",
     "genre": "MMO Shooter",
     "platforms": ["Multiplatform"],
     "release_date": "2017-09-06",
@@ -420,20 +365,9 @@
     "price": 0
   },
   {
-    "id": 36,
-    "title": "Tom Clancy's Rainbow Six Siege",
-    "genre": "Tactical Shooter",
-    "platforms": ["Multiplatform"],
-    "release_date": "2015-12-01",
-    "developer": "Ubisoft Montreal",
-    "publisher": "Ubisoft",
-    "rating": "Mature",
-    "description": "A tactical multiplayer shooter where players engage in intense 5v5 matches, utilizing strategy and teamwork to outmaneuver their opponents in close-quarters combat.",
-    "price": 19.99
-  },
-  {
-    "id": 37,
+    "id": 29,
     "title": "Apex Legends",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1810/63e55900b867e1d9e50bf139f92fe1fe94e9a048503990d3.png",
     "genre": "Battle Royale",
     "platforms": ["Multiplatform"],
     "release_date": "2019-02-04",
@@ -444,8 +378,9 @@
     "price": 0
   },
   {
-    "id": 38,
+    "id": 30,
     "title": "DOOM (2016)",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2814/GGyEnCkIXoyiVlN9sRHkzUPo.png",
     "genre": "First-Person Shooter",
     "platforms": ["Multiplatform"],
     "release_date": "2016-05-13",
@@ -456,20 +391,9 @@
     "price": 19.99
   },
   {
-    "id": 39,
-    "title": "Among Us",
-    "genre": "Social Deduction",
-    "platforms": ["Nintendo Switch"],
-    "release_date": "2020-12-15",
-    "developer": "InnerSloth",
-    "publisher": "InnerSloth",
-    "rating": "Everyone 10+",
-    "description": "A multiplayer social deduction game where players work together to complete tasks on a spaceship while attempting to identify the impostors among them.",
-    "price": 4.99
-  },
-  {
-    "id": 40,
+    "id": 31,
     "title": "Sekiro: Shadows Die Twice",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_616x353.jpg?t=1678991267",
     "genre": "Action-Adventure",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2019-03-22",
@@ -480,8 +404,9 @@
     "price": 59.99
   },
   {
-    "id": 41,
+    "id": 32,
     "title": "The Legend of Zelda: Link's Awakening",
+    "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_TheLegendOfZeldaLinksAwakening_image1600w.jpg",
     "genre": "Action-Adventure",
     "platforms": ["Nintendo Switch"],
     "release_date": "2019-09-20",
@@ -492,8 +417,9 @@
     "price": 59.99
   },
   {
-    "id": 42,
+    "id": 33,
     "title": "Sea of Thieves",
+    "image": "https://image.jeuxvideo.com/medias/152240/1522396063-3523-jaquette-avant.jpg",
     "genre": "Action-Adventure",
     "platforms": ["Xbox One", "PC"],
     "release_date": "2018-03-20",
@@ -504,20 +430,9 @@
     "price": 39.99
   },
   {
-    "id": 43,
-    "title": "Among Us",
-    "genre": "Social Deduction",
-    "platforms": ["PlayStation 5"],
-    "release_date": "2020-11-17",
-    "developer": "InnerSloth",
-    "publisher": "InnerSloth",
-    "rating": "Everyone 10+",
-    "description": "A multiplayer social deduction game where players work together to complete tasks on a spaceship while attempting to identify the impostors among them.",
-    "price": 4.99
-  },
-  {
-    "id": 44,
+    "id": 34,
     "title": "Halo Infinite",
+    "image": "https://pic.clubic.com/v1/images/1811528/raw",
     "genre": "First-Person Shooter",
     "platforms": ["Xbox Series X/S", "Xbox One", "PC"],
     "release_date": "2021-12-08",
@@ -528,32 +443,9 @@
     "price": 59.99
   },
   {
-    "id": 45,
-    "title": "Fall Guys: Ultimate Knockout",
-    "genre": "Party",
-    "platforms": ["PlayStation 4", "PC"],
-    "release_date": "2020-08-04",
-    "developer": "Mediatonic",
-    "publisher": "Devolver Digital",
-    "rating": "Everyone",
-    "description": "A colorful party game where players compete in wacky obstacle courses and mini-games, aiming to be the last one standing in a chaotic battle royale.",
-    "price": 19.99
-  },
-  {
-    "id": 46,
-    "title": "Among Us",
-    "genre": "Social Deduction",
-    "platforms": ["Xbox Series X/S"],
-    "release_date": "2021-03-31",
-    "developer": "InnerSloth",
-    "publisher": "InnerSloth",
-    "rating": "Everyone 10+",
-    "description": "A multiplayer social deduction game where players work together to complete tasks on a spaceship while attempting to identify the impostors among them.",
-    "price": 4.99
-  },
-  {
-    "id": 47,
+    "id": 35,
     "title": "Monster Hunter: World",
+    "image": "https://gaming-cdn.com/images/products/3220/orig/monster-hunter-world-xbox-one-xbox-series-x-s-xbox-one-xbox-series-x-s-jeu-microsoft-store-europe-cover.jpg?v=1703157851",
     "genre": "Action RPG",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2018-01-26",
@@ -564,8 +456,9 @@
     "price": 29.99
   },
   {
-    "id": 48,
+    "id": 36,
     "title": "Mortal Kombat 11",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0822/4WzxHtmjXV1dQpWqj1B6UAMk.jpg",
     "genre": "Fighting",
     "platforms": ["Multiplatform"],
     "release_date": "2019-04-23",
@@ -576,8 +469,9 @@
     "price": 49.99
   },
   {
-    "id": 49,
+    "id": 37,
     "title": "Fallout 76",
+    "image": "https://images.ctfassets.net/rporu91m20dc/2a3wESrWweWSZkTbNrXo2/2c29f6de40a685e412886db7edfeb096/FO76-Wastelanders-SteelDawn_Screens_01-SteelDawn-THUMB1.jpg",
     "genre": "Action RPG",
     "platforms": ["PlayStation 4", "Xbox One", "PC"],
     "release_date": "2018-11-14",
@@ -586,17 +480,5 @@
     "rating": "Mature",
     "description": "An online multiplayer RPG set in the Fallout universe, where players explore a post-apocalyptic world, build settlements, and engage in quests and events.",
     "price": 39.99
-  },
-  {
-    "id": 50,
-    "title": "Among Us",
-    "genre": "Social Deduction",
-    "platforms": ["Xbox One"],
-    "release_date": "2021-12-08",
-    "developer": "InnerSloth",
-    "publisher": "InnerSloth",
-    "rating": "Everyone 10+",
-    "description": "A multiplayer social deduction game where players work together to complete tasks on a spaceship while attempting to identify the impostors among them.",
-    "price": 4.99
   }
 ]
